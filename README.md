@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RiccardoViero
 - 👀 I’m interested in Python language for financial Analyst
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on develope system for data analyst in Python for Industrial Company
 - 📫 How to reach me www.linkedin.com/in/riccardoviero07
 
